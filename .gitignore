@@ -11,3 +11,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle
+
+#Removing test files
+*.dat
