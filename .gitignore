@@ -1,0 +1,13 @@
+#NetBeans
+#File created and edited by Tyler Davies
+
+#This portion only was created using the assistance of gitignore.io at the follow website:
+#https://www.toptal.com/developers/gitignore/api/netbeans
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle
